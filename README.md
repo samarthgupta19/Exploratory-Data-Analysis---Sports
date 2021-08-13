@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis---Sports
-Task No. 5 - The Sparks Foundation - Done As A Part Of Graduate Rotational Internship Program : Data Science And Business Analytics Internship (GRIP AUGUST 2021).
+Task No. 5 - The Sparks Foundation <br/> Done As A Part Of Graduate Rotational Internship Program <br/>Data Science And Business Analytics Internship (GRIP AUGUST 2021).
 
 PROBLEM STATEMENT :
 ----------------
